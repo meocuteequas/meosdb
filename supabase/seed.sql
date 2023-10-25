@@ -302,6 +302,14 @@ INSERT INTO "public"."Cats" ("id", "created_at", "name") VALUES
 
 
 --
+-- Data for Name: Dogs; Type: TABLE DATA; Schema: public; Owner: postgres
+--
+
+INSERT INTO "public"."Dogs" ("id", "created_at", "name") VALUES
+	('86cf3d24-eb39-44dc-8b5f-e090e4a07a92', '2023-10-25 06:18:42.757053+00', 'Suong');
+
+
+--
 -- Data for Name: Recipes; Type: TABLE DATA; Schema: public; Owner: postgres
 --
 
